@@ -4,4 +4,4 @@
 
 | Repository | Description |
 |------------|-------------|
-| [Automated-Video-Generator](https://github.com/itsPremkumar/Automated-Video-Generator) | Self-hosted text-to-video generator. 400+ voices, stock visuals, MCP server, Windows desktop app. |
+| [Automated-Video-Generator](https://github.com/Vemmba/Automated-Video-Generator) | Self-hosted text-to-video generator. 400+ voices, stock visuals, MCP server, Windows desktop app. |

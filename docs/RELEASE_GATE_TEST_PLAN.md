@@ -1,6 +1,6 @@
 # AVG Release Gate — Test Plan & Smoke Check
 
-Product: **Automated-Video-Generator (AVG) v5.0.0** (Automated Video Generator / itsPremkumar)
+Product: **Automated-Video-Generator (AVG) v5.0.0** (Automated Video Generator / Vemmba)
 Owner: QA (Hermes QA) · Coordinators: CTO (Hermes Engineer) · HoP (Hermes Head of Product)
 Issue: PRE-40 (child of PRE-16, epic af5dbca0) · COMPANY_PLAN Epic A
 

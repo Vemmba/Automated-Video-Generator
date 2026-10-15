@@ -8,7 +8,7 @@ How to install and run the Automated Video Generator on Windows, macOS, and Linu
 
 ## Windows Standalone (Easiest)
 
-Download the latest `.exe` installer from the [Releases page](https://github.com/itsPremkumar/Automated-Video-Generator/releases/latest). Double-click and follow the setup wizard. No Node.js or Python required.
+Download the latest `.exe` installer from the [Releases page](https://github.com/Vemmba/Automated-Video-Generator/releases/latest). Double-click and follow the setup wizard. No Node.js or Python required.
 
 ## One-Click Launcher (Windows)
 
@@ -17,7 +17,7 @@ Clone the repo and double-click `Start-Automated-Video-Generator.bat`. The launc
 ## Manual Setup (All Platforms)
 
 ```bash
-git clone https://github.com/itsPremkumar/Automated-Video-Generator.git
+git clone https://github.com/Vemmba/Automated-Video-Generator.git
 cd Automated-Video-Generator
 npm install
 pip install -r requirements.txt

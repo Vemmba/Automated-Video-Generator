@@ -22,7 +22,7 @@ Instead, use one of these private channels:
 
 1. **GitHub Private Vulnerability Reporting** — Navigate to the repository's "Security" tab and use the "Report a vulnerability" button (recommended)
 2. **GitHub Security Advisory** — If this repository has advisories enabled
-3. **Direct message** the maintainer through GitHub at [@itsPremkumar](https://github.com/itsPremkumar)
+3. **Direct message** the maintainer through GitHub at [@Vemmba](https://github.com/Vemmba)
 
 ### What to Include
 
@@ -65,7 +65,7 @@ To help us respond quickly, please provide:
 
 ### Desktop Application
 
-- Download the Windows installer only from [official GitHub releases](https://github.com/itsPremkumar/Automated-Video-Generator/releases)
+- Download the Windows installer only from [official GitHub releases](https://github.com/Vemmba/Automated-Video-Generator/releases)
 - Verify bundle integrity: `npm run electron:verify-bundle`
 - The desktop app runs locally and does not phone home
 

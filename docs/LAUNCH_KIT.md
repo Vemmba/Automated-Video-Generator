@@ -34,7 +34,7 @@ Copy-paste these. Post spaced over 2–3 weeks. Customize the [brackets].
 >
 > Would appreciate thoughts on the architecture (hexagonal, four entry points) and what to add next.
 >
-> Repo: https://github.com/itsPremkumar/Automated-Video-Generator
+> Repo: https://github.com/Vemmba/Automated-Video-Generator
 
 ---
 
@@ -72,7 +72,7 @@ Local. No API key. MIT.
 Batch 30 Shorts from a niche script list while you sleep.
 
 4/ It's open source. If you've wanted to start a content channel but hated the editing — this removes that step.
-Repo: https://github.com/itsPremkumar/Automated-Video-Generator
+Repo: https://github.com/Vemmba/Automated-Video-Generator
 Star it if useful ⭐
 
 ---

@@ -66,7 +66,7 @@ To publish the entire project as a native **Code Plugin** (including the MCP ser
 
 ```bash
 # Replace (git rev-parse HEAD) with the actual commit SHA if (git rev-parse HEAD) fails on your shell.
-clawhub package publish "$PWD" --family code-plugin --name automated-video-generator --display-name "Automated Video Generator" --version 1.1.0 --source-repo itsPremkumar/Automated-Video-Generator --source-commit (git rev-parse HEAD)
+clawhub package publish "$PWD" --family code-plugin --name automated-video-generator --display-name "Automated Video Generator" --version 1.1.0 --source-repo Vemmba/Automated-Video-Generator --source-commit (git rev-parse HEAD)
 ```
 
 ---
@@ -88,4 +88,4 @@ Always ensure you are publishing the **folder** that contains the `SKILL.md`, no
 ```
 
 ### 🌍 Registry Visibility
-Once published, your skill will be visible on [clawhub.ai](https://clawhub.ai) under your profile (e.g. `@itsPremkumar`).
+Once published, your skill will be visible on [clawhub.ai](https://clawhub.ai) under your profile (e.g. `@Vemmba`).

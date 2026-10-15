@@ -1,7 +1,7 @@
 # How the AVS Showcase Videos Were Generated — Full Walkthrough
 
 > Subject video: **AVS — Automated Video Generator Showcase** (16:9, ~51s, YouTube / GitHub README)
-> Repo: `github.com/itsPremkumar/Automated-Video-Generator` (23★ at generation time)
+> Repo: `github.com/Vemmba/Automated-Video-Generator` (23★ at generation time)
 > Author: the AI agent, following the project's `agentic-scripts.json` one-by-one discipline.
 >
 > This document explains **both** production runs that produced the final deliverable:
@@ -72,7 +72,7 @@ Broken into **8 scenes**, each with a `durationSec`, `voiceoverText`, and a visu
 All assets land in **`input/visuals/`** (single bucket per `src/lib/path-safety.ts`).
 
 ### 3.1 Scene 1 — GitHub repo screenshot (browser capture → crop)
-- `browser_navigate` → `https://github.com/itsPremkumar/Automated-Video-Generator`
+- `browser_navigate` → `https://github.com/Vemmba/Automated-Video-Generator`
 - `browser_vision` → full-page PNG (1247×17013, very tall).
 - `ffmpeg -vf "crop=1247:701:0:60,scale=1920:1080"` → `avs_s1_github.png` (16:9 crop).
 - `vision_analyze` confirmed: repo name, "Star 23", file list all legible, no stretch.

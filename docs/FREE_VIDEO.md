@@ -93,7 +93,7 @@ Yes. There are three entry points:
   "applicationCategory": "Multimedia",
   "description": "Free CC-licensed and public domain video search integration that works without any API key. Provides video fallback for video generation pipelines using Wikimedia Commons and Internet Archive public catalogs.",
   "featureList": "Wikimedia Commons API integration, Internet Archive API integration, no API key required, CC-licensed video search, public domain video search, automatic video fallback in pipeline, MCP tools for AI agents, HTTP API for custom integrations, frontend UI for manual browsing",
-  "url": "https://github.com/itsPremkumar/Automated-Video-Generator",
+  "url": "https://github.com/Vemmba/Automated-Video-Generator",
   "license": "MIT",
   "offers": {
     "@type": "Offer",

@@ -13,7 +13,7 @@
 >
 > Remaining: Phase 5 render integration (feed approved `render-manifest.json`
 > into `video-generator.ts` Remotion path) + live e2e with real fetchers/Vision.
-> Owner: Premkumar · Project: Automated-Video-Generator (v5.0.0)
+> Owner: Vemmba · Project: Automated-Video-Generator (v5.0.0)
 
 ---
 

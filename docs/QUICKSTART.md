@@ -6,7 +6,7 @@ Choose the path that fits your setup. The **agentic pipeline** is the recommende
 
 ## 🪟 Windows Desktop App (2 minutes)
 
-1. Download the [latest Windows installer](https://github.com/itsPremkumar/Automated-Video-Generator/releases/latest)
+1. Download the [latest Windows installer](https://github.com/Vemmba/Automated-Video-Generator/releases/latest)
 2. Double-click the `.exe` file
 3. The app launches the web portal at `http://localhost:3001`
 4. Paste a script → Click **Generate Video** → Done
@@ -19,7 +19,7 @@ Choose the path that fits your setup. The **agentic pipeline** is the recommende
 
 ```bash
 # Clone (one-time)
-git clone https://github.com/itsPremkumar/Automated-Video-Generator.git
+git clone https://github.com/Vemmba/Automated-Video-Generator.git
 cd Automated-Video-Generator
 npm install
 
@@ -55,7 +55,7 @@ Or use PowerShell:
 
 ```bash
 # 1. Clone
-git clone https://github.com/itsPremkumar/Automated-Video-Generator.git
+git clone https://github.com/Vemmba/Automated-Video-Generator.git
 cd Automated-Video-Generator
 
 # 2. Install
@@ -80,7 +80,7 @@ Open **http://localhost:3001/** → Paste a script → Generate.
 docker run -p 3001:3001 \
   -v "$(pwd)/input:/app/input" \
   -v "$(pwd)/output:/app/output" \
-  ghcr.io/itspremkumar/automated-video-generator
+  ghcr.io/vemmba/automated-video-generator
 ```
 
 ---
@@ -154,4 +154,4 @@ Find your video in `output/quickstart-demo/final.mp4`.
 - [Browse documentation →](../docs/)
 - [View the roadmap →](./ROADMAP.md)
 - [Learn how to contribute →](./CONTRIBUTING.md)
-- [Star the repo →](https://github.com/itsPremkumar/Automated-Video-Generator)
+- [Star the repo →](https://github.com/Vemmba/Automated-Video-Generator)

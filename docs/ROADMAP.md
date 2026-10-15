@@ -68,9 +68,9 @@ The vision: **Automated Video Generator** aims to become the open-source standar
 ## How to Influence the Roadmap
 
 - **Vote on features** — React with 👍 on GitHub issues you care about
-- **Submit feature requests** — Use the [feature request template](https://github.com/itsPremkumar/Automated-Video-Generator/issues/new?template=feature_request.yml)
+- **Submit feature requests** — Use the [feature request template](https://github.com/Vemmba/Automated-Video-Generator/issues/new?template=feature_request.yml)
 - **Contribute** — PRs for roadmap items are always welcome
-- **Discuss** — Share your ideas in [GitHub Discussions](https://github.com/itsPremkumar/Automated-Video-Generator/discussions)
+- **Discuss** — Share your ideas in [GitHub Discussions](https://github.com/Vemmba/Automated-Video-Generator/discussions)
 
 ---
 

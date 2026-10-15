@@ -3,9 +3,9 @@
   "name": "automated-video-generator",
   "version": "5.0.0",
   "description": "Transform text scripts into professional videos with AI voiceovers, automated stock footage, and Remotion rendering.",
-  "author": "itsPremkumar",
+  "author": "Vemmba",
   "license": "MIT",
-  "repository": "https://github.com/itsPremkumar/Automated-Video-Generator",
+  "repository": "https://github.com/Vemmba/Automated-Video-Generator",
   "configSchema": {
     "type": "object",
     "properties": {

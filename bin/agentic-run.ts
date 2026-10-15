@@ -11,6 +11,11 @@ dotenv.config();
 
 import { runAgenticPipeline, renderAgenticSlideshow, renderAgenticWithRemotion, PipelineProgress } from '../src/agentic/orchestrate.js';
 
+console.log(`
+  ⚡ Vemmba · Automated Video Generator
+  ⚡ https://github.com/Vemmba
+`);
+
 function arg(name: string, fallback: string): string {
     const i = process.argv.indexOf(`--${name}`);
     // `!== undefined` (not truthiness): an explicit empty value ("--topic ''")

@@ -103,8 +103,8 @@ export function homePage(
                     url: absoluteUrl(req, '/'),
                     author: {
                         '@type': 'Person',
-                        name: 'Premkumar',
-                        url: 'https://github.com/itsPremkumar',
+                        name: 'Vemmba',
+                        url: 'https://github.com/Vemmba',
                     },
                 },
                 {
@@ -118,8 +118,8 @@ export function homePage(
                     runtimePlatform: 'Node.js',
                     author: {
                         '@type': 'Person',
-                        name: 'Premkumar',
-                        url: 'https://github.com/itsPremkumar',
+                        name: 'Vemmba',
+                        url: 'https://github.com/Vemmba',
                     },
                 },
                 {

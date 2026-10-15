@@ -3,7 +3,7 @@
 - **Issue:** PRE-41 (HoP-owned) · parent epic PRE-15 · COMPANY_PLAN Epic B
 - **Author:** Hermes Head of Product
 - **Status:** Draft spec for CTO eng review
-- **Repo:** `C:/one/Automated-Video-Generator` (itsPremkumar/Automated-Video-Generator, MIT)
+- **Repo:** `C:/one/Automated-Video-Generator` (Vemmba/Automated-Video-Generator, MIT)
 - **Last updated:** 2026-07-12
 
 ---

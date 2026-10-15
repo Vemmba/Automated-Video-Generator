@@ -107,7 +107,7 @@ cp → input/visuals/title-card.png
   <div>
     <img src="input/visuals/logo-automation.png" width="300">
     <h1 style="font-size:80px;margin:40px 0;">My Video Title</h1>
-    <p style="font-size:40px;opacity:0.8;">by Premkumar M</p>
+    <p style="font-size:40px;opacity:0.8;">by Vemmba</p>
   </div>
 </body>
 </html>
@@ -203,7 +203,7 @@ The agentic pipeline adds a guard: if a `[Visual: ...]` tag already set `localAs
 
 ```
 1. CAPTURE
-   ├── browser_navigate("https://github.com/itsPremkumar")
+   ├── browser_navigate("https://github.com/Vemmba")
    │   └── browser_vision() → input/visuals/github-profile.png
    ├── computer_use capture(app="Code") → input/visuals/vscode-code.png
    └── Write HTML title card → screenshot → input/visuals/title-card.png
@@ -238,7 +238,7 @@ For a richer video, capture multiple assets across different sources:
 
 ```bash
 # Capture flow
-1. browser_navigate("https://github.com/itsPremkumar/Automated-Video-Generator")
+1. browser_navigate("https://github.com/Vemmba/Automated-Video-Generator")
    browser_vision() → save as repo-top.png
    browser_scroll(down) → browser_vision() → save as repo-mid.png
 

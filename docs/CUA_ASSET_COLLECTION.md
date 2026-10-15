@@ -134,7 +134,7 @@ Use `[Visual: filename.ext]` tags — exactly like local assets:
 
 ```json
 {
-  "script": "Meet the Automated Video Generator. [Visual: title-card.png]\nBuilt by Premkumar M. [Visual: github-profile.png]\nWith 21 stars on GitHub. [Visual: contribution-graph.png]\nOpen source and free. [Visual: license-badge.png]"
+  "script": "Meet the Automated Video Generator. [Visual: title-card.png]\nBuilt by Vemmba. [Visual: github-profile.png]\nWith 21 stars on GitHub. [Visual: contribution-graph.png]\nOpen source and free. [Visual: license-badge.png]"
 }
 ```
 
@@ -156,10 +156,10 @@ npm run generate:agentic
 
 **Capture phase:**
 ```
-1. browser_navigate('https://github.com/itsPremkumar')
+1. browser_navigate('https://github.com/Vemmba')
 2. browser_vision() → save as 'github-profile.png'
 3. Scroll down → browser_vision() → save as 'contrib-graph.png'
-4. browser_navigate('https://github.com/itsPremkumar/Automated-Video-Generator')
+4. browser_navigate('https://github.com/Vemmba/Automated-Video-Generator')
 5. browser_vision() → save as 'repo-readme.png'
 ```
 
@@ -169,7 +169,7 @@ npm run generate:agentic
   {
     "id": "github-showcase",
     "title": "My GitHub Portfolio",
-    "script": "Hi, I'm Premkumar M. [Visual: title-card.png]\nI build AI video pipelines. [Visual: github-profile.png]\nMy project has 21 stars. [Visual: repo-readme.png]\nWith 4,600+ contributions. [Visual: contrib-graph.png]\nAll open source and free. [Visual: mit-license.png]",
+    "script": "Hi, I'm Vemmba. [Visual: title-card.png]\nI build AI video pipelines. [Visual: github-profile.png]\nMy project has 21 stars. [Visual: repo-readme.png]\nWith 4,600+ contributions. [Visual: contrib-graph.png]\nAll open source and free. [Visual: mit-license.png]",
     "orientation": "portrait",
     "hookFirst": true,
     "variablePacing": true,
@@ -213,7 +213,7 @@ npm run generate:agentic
   <div>
     <img src="input/visuals/logo-automation.png" width="300">
     <h1 style="font-size:80px; margin:40px 0;">My Video Title</h1>
-    <p style="font-size:40px; opacity:0.8;">by Premkumar M</p>
+    <p style="font-size:40px; opacity:0.8;">by Vemmba</p>
   </div>
 </body>
 </html>
@@ -285,10 +285,10 @@ Both use the same `[Visual: filename.ext]` syntax. The agentic pipeline adds gat
 
 ```
 Step 1: Capture assets
-  → browser_navigate('https://github.com/itsPremkumar')
+  → browser_navigate('https://github.com/Vemmba')
   → browser_vision() → save to input/visuals/github-profile.png
   
-  → browser_navigate('https://github.com/itsPremkumar/Automated-Video-Generator')  
+  → browser_navigate('https://github.com/Vemmba/Automated-Video-Generator')  
   → browser_vision() → save to input/visuals/repo-page.png
   
   → Write and capture custom HTML title card

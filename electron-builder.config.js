@@ -3,9 +3,9 @@
  * Builds the Automated Video Generator as a Windows desktop app
  */
 module.exports = {
-    appId: 'com.premkumar.automated-video-generator',
+    appId: 'com.vemmba.automated-video-generator',
     productName: 'Automated Video Generator',
-    copyright: 'Copyright © 2026 Premkumar',
+    copyright: 'Copyright © 2026 Vemmba — original work © 2026 Premkumar (MIT)',
 
     // Directories
     directories: {

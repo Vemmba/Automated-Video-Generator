@@ -11,7 +11,7 @@ whole codebase.
 ## Minute 1 — Clone & install
 
 ```bash
-git clone https://github.com/itsPremkumar/Automated-Video-Generator.git
+git clone https://github.com/Vemmba/Automated-Video-Generator.git
 cd Automated-Video-Generator
 npm install
 ```

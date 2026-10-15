@@ -93,7 +93,7 @@ Yes. Set `MEDIA_VERIFICATION_ENABLED=false` in `.env`. A restart is required.
   "applicationCategory": "Multimedia",
   "description": "AI-powered visual verification that checks downloaded images and videos against scene keywords using Ollama moondream or Gemini Vision models.",
   "featureList": "AI vision verification, Ollama moondream, Gemini Vision, FFmpeg frame extraction, configurable confidence threshold, graceful failure when AI unavailable",
-  "url": "https://github.com/itsPremkumar/Automated-Video-Generator",
+  "url": "https://github.com/Vemmba/Automated-Video-Generator",
   "license": "MIT",
   "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
 }

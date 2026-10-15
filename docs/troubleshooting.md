@@ -68,6 +68,6 @@ The project logs to stdout and `logs.txt`.
 
 ## Getting Help
 
-- Search [existing issues](https://github.com/itsPremkumar/Automated-Video-Generator/issues)
-- Open a [new issue](https://github.com/itsPremkumar/Automated-Video-Generator/issues/new/choose)
+- Search [existing issues](https://github.com/Vemmba/Automated-Video-Generator/issues)
+- Open a [new issue](https://github.com/Vemmba/Automated-Video-Generator/issues/new/choose)
 - Check the [FAQ](./faq.md)

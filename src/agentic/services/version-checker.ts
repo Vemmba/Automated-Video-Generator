@@ -16,7 +16,7 @@ export interface VersionInfo {
     publishedAt: string;
 }
 
-const GITHUB_API = 'https://api.github.com/repos/itsPremkumar/Automated-Video-Generator/releases/latest';
+const GITHUB_API = 'https://api.github.com/repos/Vemmba/Automated-Video-Generator/releases/latest';
 const CURRENT_VERSION = '5.0.0';
 
 /** Check for updates from GitHub releases */
@@ -46,7 +46,7 @@ export async function checkForUpdates(): Promise<VersionInfo | null> {
             current: CURRENT_VERSION,
             latest,
             hasUpdate,
-            releaseUrl: json?.html_url || 'https://github.com/itsPremkumar/Automated-Video-Generator/releases',
+            releaseUrl: json?.html_url || 'https://github.com/Vemmba/Automated-Video-Generator/releases',
             releaseNotes: json?.body || '',
             publishedAt: json?.published_at || '',
         };

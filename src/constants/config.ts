@@ -34,7 +34,7 @@ export const OPENVERSE_ENABLED = process.env.OPENVERSE_ENABLED !== 'false';
 export const DEFAULT_FALLBACK_VIDEO = 'default.mp4';
 export const MAX_TITLE_LENGTH = 80;
 export const PROJECT_NAME = 'Automated Video Generator';
-export const PROJECT_REPOSITORY_URL = 'https://github.com/itsPremkumar/Automated-Video-Generator';
+export const PROJECT_REPOSITORY_URL = 'https://github.com/Vemmba/Automated-Video-Generator';
 export const PROJECT_LICENSE_URL = 'https://opensource.org/licenses/MIT';
 export const DEFAULT_SITE_DESCRIPTION =
     'Free and open-source AI text-to-video generator built with Remotion, Edge-TTS, stock footage APIs, and a local web portal for YouTube Shorts, TikTok videos, explainers, and marketing content.';

@@ -69,7 +69,7 @@ The `count` parameter defaults to 5, capped at 50 per request. The pipeline typi
   "applicationCategory": "Multimedia",
   "description": "Free CC-licensed image search integration that works without any API key. Provides image fallback for video generation pipelines using the Openverse public catalog.",
   "featureList": "Openverse API integration, no API key required, CC-licensed image search, automatic fallback in video pipeline, configurable via OPENVERSE_ENABLED env var",
-  "url": "https://github.com/itsPremkumar/Automated-Video-Generator",
+  "url": "https://github.com/Vemmba/Automated-Video-Generator",
   "license": "MIT",
   "offers": {
     "@type": "Offer",

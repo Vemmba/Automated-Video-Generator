@@ -7,7 +7,7 @@ See [GOOD_FIRST_ISSUES.md](GOOD_FIRST_ISSUES.md) for scoped, low-risk tasks.
 
 ### Dev setup (all platforms)
 ```bash
-git clone https://github.com/itsPremkumar/Automated-Video-Generator.git
+git clone https://github.com/Vemmba/Automated-Video-Generator.git
 cd Automated-Video-Generator
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt

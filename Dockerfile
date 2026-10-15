@@ -35,8 +35,8 @@ FROM node:20-bookworm
 
 LABEL org.opencontainers.image.title="Automated Video Generator"
 LABEL org.opencontainers.image.description="Free and open-source AI text-to-video pipeline"
-LABEL org.opencontainers.image.url="https://github.com/itsPremkumar/Automated-Video-Generator"
-LABEL org.opencontainers.image.source="https://github.com/itsPremkumar/Automated-Video-Generator"
+LABEL org.opencontainers.image.url="https://github.com/Vemmba/Automated-Video-Generator"
+LABEL org.opencontainers.image.source="https://github.com/Vemmba/Automated-Video-Generator"
 LABEL org.opencontainers.image.licenses="MIT"
 
 WORKDIR /app

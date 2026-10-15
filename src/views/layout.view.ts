@@ -898,7 +898,7 @@ textarea { min-height: 250px; resize: vertical; }
             <a href="/video-download" class="nav-link"><i data-lucide="download" style="width:18px;height:18px;vertical-align:middle;margin-right:4px;"></i> Video Download</a>
             <a href="/#workspace" class="nav-link"><i data-lucide="plus-circle" style="width:18px;height:18px;vertical-align:middle;margin-right:4px;"></i> Workspace</a>
             <a href="/#recent-videos" class="nav-link"><i data-lucide="library" style="width:18px;height:18px;vertical-align:middle;margin-right:4px;"></i> Library</a>
-            <a href="https://github.com/itsPremkumar/Automated-Video-Generator" target="_blank" class="nav-link" style="display:flex;align-items:center;">
+            <a href="https://github.com/Vemmba/Automated-Video-Generator" target="_blank" class="nav-link" style="display:flex;align-items:center;">
                 <i data-lucide="github" style="width:18px;height:18px;margin-right:6px;"></i> GitHub <span class="nav-badge">v${APP_VERSION}</span>
             </a>
             <button id="theme-toggle" class="button secondary" style="padding: 0; border-radius: 50%; width: 40px; height: 40px;" aria-label="Toggle Theme">

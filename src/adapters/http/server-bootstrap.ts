@@ -80,6 +80,11 @@ export function startServer(port?: number): Promise<void> {
     return new Promise((resolve, reject) => {
         const server = app.listen(listenPort, HOST, () => {
             const url = `http://localhost:${listenPort}`;
+            console.log(`
+┌─────────────────────────────────────────────────────────┐
+│  ⚡ VEMMBA · Automated Video Generator                  │
+│  ⚡ Maintained by Vemmba — github.com/Vemmba            │
+└─────────────────────────────────────────────────────────┘`);
             console.log(`Video Generator portal running on ${url}`);
             resolve();
         });

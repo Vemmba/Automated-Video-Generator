@@ -117,7 +117,7 @@ export const renderOgImage = (_req: Request, res: Response) => {
   <text x="879" y="420" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#172033">Remotion</text>
   <rect x="942" y="400" width="94" height="30" rx="15" fill="#FFF9F2"/>
   <text x="989" y="420" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#172033">Edge-TTS</text>
-  <text x="88" y="540" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600" fill="#516074">github.com/itsPremkumar/Automated-Video-Generator</text>
+  <text x="88" y="540" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600" fill="#516074">github.com/Vemmba/Automated-Video-Generator</text>
 </svg>`;
     res.type('image/svg+xml').send(svg);
 };

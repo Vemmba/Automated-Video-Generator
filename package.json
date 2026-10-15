@@ -3,16 +3,16 @@
   "version": "5.0.0",
   "main": "dist-electron/electron-main.js",
   "description": "Free & open-source self-hosted AI text-to-video pipeline. Turn scripts into MP4 videos with AI voiceovers, stock media, and Remotion rendering. No watermark, no subscriptions, no API key required.",
-  "author": "Premkumar",
+  "author": "Vemmba",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/itsPremkumar/Automated-Video-Generator.git"
+    "url": "git+https://github.com/Vemmba/Automated-Video-Generator.git"
   },
   "bugs": {
-    "url": "https://github.com/itsPremkumar/Automated-Video-Generator/issues"
+    "url": "https://github.com/Vemmba/Automated-Video-Generator/issues"
   },
-  "homepage": "https://itspremkumar.github.io/Automated-Video-Generator",
+  "homepage": "https://vemmba.github.io/Automated-Video-Generator",
   "keywords": [
     "video-generator",
     "text-to-video",

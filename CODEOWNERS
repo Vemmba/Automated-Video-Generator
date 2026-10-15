@@ -1,27 +1,27 @@
 # Global owners
-* @itsPremkumar
+* @Vemmba
 
 # Core source code
-/src/ @itsPremkumar
+/src/ @Vemmba
 
 # Documentation
-/docs/ @itsPremkumar
-/docs/**/*.md @itsPremkumar
-README.md @itsPremkumar
+/docs/ @Vemmba
+/docs/**/*.md @Vemmba
+README.md @Vemmba
 
 # CI/CD configuration
-/.github/ @itsPremkumar
-/.github/workflows/ @itsPremkumar
+/.github/ @Vemmba
+/.github/workflows/ @Vemmba
 
 # Configuration files
-package.json @itsPremkumar
-tsconfig.json @itsPremkumar
-Dockerfile @itsPremkumar
-docker-compose.yml @itsPremkumar
+package.json @Vemmba
+tsconfig.json @Vemmba
+Dockerfile @Vemmba
+docker-compose.yml @Vemmba
 
 # Community health files
-CODE_OF_CONDUCT.md @itsPremkumar
-CONTRIBUTING.md @itsPremkumar
-SECURITY.md @itsPremkumar
-CHANGELOG.md @itsPremkumar
-ROADMAP.md @itsPremkumar
+CODE_OF_CONDUCT.md @Vemmba
+CONTRIBUTING.md @Vemmba
+SECURITY.md @Vemmba
+CHANGELOG.md @Vemmba
+ROADMAP.md @Vemmba
