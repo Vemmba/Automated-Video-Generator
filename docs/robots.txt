@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vemmba.github.io/Automated-Video-Generator/sitemap.xml

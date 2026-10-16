@@ -1,0 +1,27 @@
+# Global owners
+* @Vemmba
+
+# Core source code
+/src/ @Vemmba
+
+# Documentation
+/docs/ @Vemmba
+/docs/**/*.md @Vemmba
+README.md @Vemmba
+
+# CI/CD configuration
+/.github/ @Vemmba
+/.github/workflows/ @Vemmba
+
+# Configuration files
+package.json @Vemmba
+tsconfig.json @Vemmba
+Dockerfile @Vemmba
+docker-compose.yml @Vemmba
+
+# Community health files
+CODE_OF_CONDUCT.md @Vemmba
+CONTRIBUTING.md @Vemmba
+SECURITY.md @Vemmba
+CHANGELOG.md @Vemmba
+ROADMAP.md @Vemmba
